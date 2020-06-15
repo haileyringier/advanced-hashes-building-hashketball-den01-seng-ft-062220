@@ -8,12 +8,11 @@ def game_hash (hash)
         :number => "", 
         :shoe => "",
         :points => "",
-        :rebounds 
-        :assists
-        :steals
-        :blocks
-        :slam_dunks
-        
+        :rebounds => "",
+        :assists => "",
+        :steals => "",
+        :blocks => "",
+        :slam_dunks=> ""
         ]
     },
     :away => {
