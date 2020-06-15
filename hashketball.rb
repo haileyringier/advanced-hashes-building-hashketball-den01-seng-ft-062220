@@ -31,6 +31,5 @@ def game_hash (hash)
         ]
     }
   }
-  
-  #returns the hash
+  hash
 end 
