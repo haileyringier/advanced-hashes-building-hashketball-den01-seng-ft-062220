@@ -5,7 +5,11 @@ def game_hash (hash)
       :colors => [],
       :players => []
     },
-    :away => {}
+    :away => {
+      :team_name => "team name",
+      :colors => [],
+      :players => []
+    }
   }
   
   #returns the hash
